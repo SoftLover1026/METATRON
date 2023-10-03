@@ -1,4 +1,4 @@
-import react, { useCallback, useEffect } from 'react';
+import { useCallback, useEffect } from 'react';
 import './index.css';
 import { Row, Col, Button } from 'antd';
 import { HiUserGroup } from "react-icons/hi";

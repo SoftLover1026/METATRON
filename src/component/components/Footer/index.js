@@ -34,7 +34,7 @@ function Footer() {
                 </Col>
             </Row>
             <Row className='mt-2 flex justify-between'>
-                <a>© 2022. MetaTron. All Rights Reserved.</a>
+                <a>© 2023. MetaTron. All Rights Reserved.</a>
                 <a target='_blank' href='https://tronscan.org/#/contract/TRxnQSZD5MDXF1uefv815QhqecTiDuWdGi/transactions'>Contract Address</a>
             </Row>
         </Col>
