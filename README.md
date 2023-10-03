@@ -1,5 +1,7 @@
 # Token Staking & Investment Platform on Tron 
 
+![Screenshot1](https://github.com/softlover1026/METATRON/blob/main/public/Screenshot.png)
+
 ## Overview:
 Metatron is a reliable and secure platform that allows users to stake their tokens and participate in various investment strategies. With a team of experienced traders, Metatron offers a pool of investment opportunities for its members. Whether you are a beginner or an experienced investor, Metatron provides a user-friendly interface to help you maximize your returns.
 
